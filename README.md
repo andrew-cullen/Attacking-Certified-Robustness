@@ -1,4 +1,4 @@
-# Attacking-Certified-Robustness
+# Attacking Certified Robustness
 
 Repository associated with the ICML (2024) paper "Et Tu Certifications: Robustness Certificates Yield Better Adversarial Examples" by Cullen, A.C. and Liu, S. and Montague, P. and Erfani, S.M. and Rubinstein, B.I.P.
 
